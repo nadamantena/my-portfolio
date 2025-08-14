@@ -12,7 +12,7 @@ A React-based personal website to showcase my skills, certifications, and contac
 ## Local Setup
 
 1. Clone the repository:
-   git clone https://github.com/nadamantena/nada-portfolio.git
+   git clone https://github.com/nadamantena/my-portfolio.git
 2. Install dependencies:
    npm install
 3. Start development server:
@@ -20,28 +20,28 @@ A React-based personal website to showcase my skills, certifications, and contac
 
 ## Project Structure
 
-my-portfolio/
-  public/
-    image.jpg
-    certifications/
-      cert1.jpg
-      cert2.jpg
-      cert3.jpg
-      cert4.jpg
-      cert5.jpg
-      cert6.jpg
-      cert7.jpg
-      cert8.jpg
-  src/
-    components/
-      About.js
-      Skills.js
-      Languages.js
-      TrainingCourses.js
-      Contact.js
-      CertificateDetails.js
-    App.js
-    App.css
+- my-portfolio/
+  - public/
+    - image.jpg
+    - certifications/
+      - cert1.jpg
+      - cert2.jpg
+      - cert3.jpg
+      - cert4.jpg
+      - cert5.jpg
+      - cert6.jpg
+      - cert7.jpg
+      - cert8.jpg
+  - src/
+    - components/
+      - About.js
+      - Skills.js
+      - Languages.js
+      - TrainingCourses.js
+      - Contact.js
+      - CertificateDetails.js
+    - App.js
+    - App.css
 
 ## Certifications
 
