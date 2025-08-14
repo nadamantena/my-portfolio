@@ -12,7 +12,7 @@ A React-based personal website to showcase my skills, certifications, and contac
 ## Local Setup
 
 1. Clone the repository:
-   git clone https://github.com/nadamantena/nada-portfolio.git
+   git clone https://github.com/nadamantena/my-portfolio.git
 2. Install dependencies:
    npm install
 3. Start development server:
