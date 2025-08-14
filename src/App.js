@@ -2,8 +2,9 @@ import React, { useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import About from "./components/About";
 import Skills from "./components/Skills";
-import Languages from "./components/Languages";
+import Languages from "./components/Languages";  
 import TrainingCourses from "./components/TrainingCourses";
+import Academics from './components/Academics';
 import Contact from "./components/Contact";
 import CertificateDetails from "./components/CertificateDetails";
 import "./App.css";
@@ -14,6 +15,7 @@ function PortfolioContent() {
       <About />
       <Skills />
       <TrainingCourses />
+      <Academics />    
       <Languages />
       <Contact />
     </>
