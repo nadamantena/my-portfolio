@@ -40,6 +40,12 @@ A React-based personal website to showcase my skills, certifications, and contac
       - TrainingCourses.js
       - Contact.js
       - CertificateDetails.js
+      - About.css
+      - Skills.css
+      - Languages.css
+      - TrainingCourses.css
+      - Contact.css
+      - CertificateDetailscss
     - App.js
     - App.css
 
